@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#container{
+    height:60vh;
+    background-image:url("header.jpg");
+    width:100%;
+    display:flex;
+    justify-content: center;
+   
+       
+}
+
+hr{
+    width:50px;
+    
+}
+p{
+    text-align:center;
+}
+span{
+    color:blue;
+}
+h1{
+    color:blue;
+   
+}
+
+button{
+    border:1px solid blue;
+    padding:5px 10px;
+    background-color: white;
+    margin:10px auto;
+}
+button:hover{
+    border:1px solid blue;
+    padding:5px 10px;
+    background-color: blue;
+    color:white;
+}
+
